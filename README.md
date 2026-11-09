@@ -1,9 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=2000&color=E6EDF3&center=true&vCenter=true&width=680&height=72&lines=Younes;terminal+tools+%26+efficient+local+AI" />
-  <img alt="Younes — terminal tools and efficient local AI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=2000&color=1F2328&center=true&vCenter=true&width=680&height=72&lines=Younes;terminal+tools+%26+efficient+local+AI" />
-</picture>
+<img src="assets/banner-dark.svg#gh-dark-mode-only" alt="YOUNES — terminal tools and efficient local AI" width="900" />
+<img src="assets/banner-light.svg#gh-light-mode-only" alt="YOUNES — terminal tools and efficient local AI" width="900" />
 
 Python developer · Germany
 
